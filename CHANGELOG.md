@@ -1,3 +1,69 @@
+# 30.05.23
+[add]
++ oliver006/redis_exporter
++ React is a JavaScript library
+
+# 22.05.23
+[add]
++ zadam/trilium
++ Valentina pattern design software
++ lawinsider
++ crosstalksolutions
++ porteus-kiosk
++ skillsetter
++ mockk/mockk
++ aiogram/aiogram
+
+# 07.02.23
+[add]
++ SweetAlert2
++ s3.translator, s3.screengrab и др. расширения
++ Tyrrrz/DiscordChatExporter
++ YoutubeExplode
++ Freescale Semiconductor
++ Неофициальный сайт php.su
++ Miro
++ MagicalJellyBean
++ Ajax Systems
++ Apptopia
++ Yttrium
++ CodeSnack IDE
++ Canvas Lite for Homeowners
++ Carnets – Jupyter
++ Illusory
++ GitLab
++ Blackmagic Design
++ ThingsBoard
++ Netlify
++ GameLoop
++ Corel
++ chatgpt
++ Perforce
++ Crowdin
++ github marketplace
++ db1000n
++ stoprussia2022/KonturCertAuthDown
++ Anarcho-Hacktivist-JP/Kacap-Cracking
++ Helix Toolkit
++ Fork TS Checker Webpack Plugin
++ BetterBird
++ ShellHacks, Command-Line Tips
++ ClickHouse
++ PlugY-Configurator
++ Yet another flags
++ Мракопедия
++ SendPulse
++ Vectornator
++ Pixelmator
++ HDRezka
++ Perforce Software
++ Depesz
++ Uppy
++ django-ninja
++ koskimas/kysely
++ spatie/laravel-google-fonts
++ nilsteampassnet/TeamPass
+
 # 11.11.22
 [add]
 + WorldCat
